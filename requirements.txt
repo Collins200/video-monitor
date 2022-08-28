@@ -1,6 +1,7 @@
 click==8.0.3
 Flask==2.0.2
 future==0.18.2
+gunicorn==20.1.0
 imageio==2.14.1
 imutil==0.2.5
 imutils==0.5.4
